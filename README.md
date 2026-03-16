@@ -1,4 +1,4 @@
-# 2ITA-git
+# 2ITA
 
 Her skal dere teste ut bruk av Git og GitHub.
 
